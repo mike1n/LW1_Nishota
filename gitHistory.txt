@@ -21,3 +21,16 @@ Author: mike1n <nishota.mike@gmail.com>
 Date:   Fri Nov 26 09:56:33 2021 +0200
 
     first
+
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "\320\270\320\267\320\276\320\261\321\200.jfif"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   gitHistory.txt
+        new file:   "\320\270\320\267\320\276\320\261\321\200.jfif"
